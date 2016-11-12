@@ -1,0 +1,24 @@
+Click on the yellow squares of the
+grid so to write numbers in them.
+At first all the squares of the grid
+are yellow, so click anywhere. Now,
+a certain yellow pattern is drawn
+around the square you just clicked
+(see first figure).
+
+You can click on any of the yellow
+squares so to write the next
+number in it. Of course the yellow
+pattern is somewhat different now
+because there cannot be a yellow
+square to where a number is all- 
+ready written (second figure).
+
+Keep on clicking the yellow squares
+until all the grid is filled with
+numbers up to 100.
+
+A good strategy is to start from a
+corner and gradually move to the
+center with a clockwise motion.
+Good luck !!!

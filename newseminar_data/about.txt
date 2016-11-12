@@ -1,0 +1,26 @@
+History
+I was in a middle of a very boring seminar when I noticed a friend of mine
+playing some sort of puzzle game on a piece of paper. After that I always
+wanted to make a PC game out of it. And yes, it can be solved.
+
+Copyright (c) 2007 Panagiotis Tsiberis
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+Software used
+Python, Pygame, IDLE, KolourPaint, KSnapshot, OpenOffice.org Writer.
+
+Music is
+Pachelbel's 'Canon' by Jesse at
+http://www.goodier.net/Pachelbel/pachelbel.asp
+
+Fonts are
+Bitstream Vera Serif
+Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.
+
+Seminar by Takis Tsiberis
+http://takira.freehosting.net/ & takira_gr@yahoo.com
+This version works for both Linux and Windows.
+Dedicated to my home town Thessaloniki.
