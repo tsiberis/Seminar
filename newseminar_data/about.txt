@@ -21,6 +21,6 @@ Bitstream Vera Serif
 Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.
 
 Seminar by Takis Tsiberis
-http://takira.freehosting.net/ & takira_gr@yahoo.com
+http://tsiberis.mysite.com/ & tsiberis@gmail.com
 This version works for both Linux and Windows.
 Dedicated to my home town Thessaloniki.
