@@ -4,8 +4,8 @@
 Seminar v0.2 - an attempt to rewrite the Seminar game from scratch.
 
 by Takis Tsiberis
-http://takira.freehosting.net/
-takira_gr@yahoo.com
+http://tsiberis.mysite.com/
+tsiberis@gmail.com
 
 Started coding at 1/20/2007 - mostly on weekends
 Finished at 5/16/2007
